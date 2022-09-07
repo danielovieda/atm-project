@@ -1,0 +1,11 @@
+
+
+function Atm() {
+    return (
+        <>
+        
+        </>
+    )
+}
+
+export default Atm

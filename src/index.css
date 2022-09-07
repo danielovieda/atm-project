@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.deposit-button {
+  width: 10em;
+  height: 7em;
+}
+
+.withdrawal-button {
+  width: 10em;
+  height: 7em;
+}
